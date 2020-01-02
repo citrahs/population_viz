@@ -1,4 +1,4 @@
-# visualization-of-indonesia-population
+# Visualization of Indonesia's Population
 
 Visualization using [datashader](https://github.com/pyviz/datashader) package
 
